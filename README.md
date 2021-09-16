@@ -1,4 +1,4 @@
 ### Welcome to Lab 3!
 
-Name:
-SPIRE ID:
+Name: <YOUR_NAME>
+SPIRE ID: <YOUR_SPIRE_ID>
