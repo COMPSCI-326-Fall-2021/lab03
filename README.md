@@ -1,4 +1,4 @@
 ### Welcome to Lab 3!
 
-Name:
-SPIRE ID:
+Name: ABC123
+SPIRE ID: 0123456789
