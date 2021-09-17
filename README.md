@@ -1,4 +1,4 @@
 ### Welcome to Lab 3!
 
-Name: ABC123
-SPIRE ID: 0123456789
+Name: Benjamin Rao
+SPIRE ID: 32523631
